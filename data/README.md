@@ -1,0 +1,1 @@
+Sample data folder for local experiments with document text.
