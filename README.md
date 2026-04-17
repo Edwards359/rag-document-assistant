@@ -57,7 +57,7 @@ Contextual Answer
 ```
 
 ## Tech stack
-- Python 3.11+
+- Python 3.12+
 - FastAPI
 - Pydantic
 - python-dotenv
